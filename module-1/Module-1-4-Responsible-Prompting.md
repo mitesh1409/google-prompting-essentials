@@ -6,7 +6,9 @@ Sometimes a generative AI tool just won’t give you the output you need. There�
 
 ## Ethical risks and AI limitations
 
-Gen AI tools aren’t perfect. Sometimes, their outputs can contain mistakes, bias, stereotypes, misleading information, and other harmful content. This is why a human-in-the-loop approach is so important—you must verify gen AI outputs before you use them.
+Gen AI tools aren’t perfect. Sometimes, their outputs can contain mistakes, bias, stereotypes, misleading information, and other harmful content.
+
+> THIS IS WHY A HUMAN-IN-THE-LOOP APPROACH IS SO IMPORTANT—YOU MUST VERIFY GEN AI OUTPUTS BEFORE YOU USE THEM.
 
 ![Responsible Prompting](./responsible-prompting.png)
 
